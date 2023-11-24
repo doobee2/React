@@ -8,6 +8,7 @@ import Test5 from './Test5';
 import Test6 from './Test6';
 import Test7 from './Test7';
 import Test8 from './Test8';
+import Test9 from './Test9';
 
 // 3. index.js에 컴포넌트 추가
 
@@ -22,6 +23,7 @@ root.render(
     <Test6 nick="술비" age="18" addr="인천"/>
     <Test7 nick="살비" age="100" addr="하늘"/>
     <Test8 />
+    <Test9 />
   </React.StrictMode>
 );
 
